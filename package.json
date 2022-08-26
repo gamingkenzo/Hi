@@ -1,5 +1,5 @@
 {
-  "name": "VihangaBot-MD",
+  "name": "KENZO-MD",
   "version": "2.0,1",
   "description": "WhatsApp Using Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "vihangayt.",
+  "author": "kenzoyt.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/sanuwaofficial/Baileys.git",

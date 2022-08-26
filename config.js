@@ -21,8 +21,8 @@ global.welcomeandgoodbye = 'false' //welcome එක off කරන්න ඕන�
 global.callblock = 'false' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
 
 //Owner React
-global.OWNER_REACT = '' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9463867158' //මෙතන number එක.
+global.OWNER_REACT = 'false' //මෙතනට emoji එකක දාන්න.
+global.REACT_NUMBER = '9463158' //මෙතන number එක.
 
 // Other
 global.owner = ['94763867158',''] //මෙතන number එක.
